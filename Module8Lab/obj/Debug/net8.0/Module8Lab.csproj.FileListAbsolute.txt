@@ -1,0 +1,15 @@
+/workspaces/Module8Lab2505/Module8Lab/bin/Debug/net8.0/Module8Lab
+/workspaces/Module8Lab2505/Module8Lab/bin/Debug/net8.0/Module8Lab.deps.json
+/workspaces/Module8Lab2505/Module8Lab/bin/Debug/net8.0/Module8Lab.runtimeconfig.json
+/workspaces/Module8Lab2505/Module8Lab/bin/Debug/net8.0/Module8Lab.dll
+/workspaces/Module8Lab2505/Module8Lab/bin/Debug/net8.0/Module8Lab.pdb
+/workspaces/Module8Lab2505/Module8Lab/obj/Debug/net8.0/Module8Lab.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Module8Lab2505/Module8Lab/obj/Debug/net8.0/Module8Lab.AssemblyInfoInputs.cache
+/workspaces/Module8Lab2505/Module8Lab/obj/Debug/net8.0/Module8Lab.AssemblyInfo.cs
+/workspaces/Module8Lab2505/Module8Lab/obj/Debug/net8.0/Module8Lab.csproj.CoreCompileInputs.cache
+/workspaces/Module8Lab2505/Module8Lab/obj/Debug/net8.0/Module8Lab.sourcelink.json
+/workspaces/Module8Lab2505/Module8Lab/obj/Debug/net8.0/Module8Lab.dll
+/workspaces/Module8Lab2505/Module8Lab/obj/Debug/net8.0/refint/Module8Lab.dll
+/workspaces/Module8Lab2505/Module8Lab/obj/Debug/net8.0/Module8Lab.pdb
+/workspaces/Module8Lab2505/Module8Lab/obj/Debug/net8.0/Module8Lab.genruntimeconfig.cache
+/workspaces/Module8Lab2505/Module8Lab/obj/Debug/net8.0/ref/Module8Lab.dll

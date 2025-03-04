@@ -37,5 +37,15 @@ class PokemonLINQLab
         {
             Console.WriteLine($"Name: {pokemon.Name}, Type: {pokemon.Type}, Level: {pokemon.Level}");
         }
+        // part 2
+        var firePokemons = from p in pokemons
+                           where p.Type == "Fire" // "=" != "=="
+                           orderby p.Name
+                           select p;
+        Console.WriteLine("Fire type Pokémons:");
+        foreach (var pokemon in firePokemons) // loop thru each item in list
+        {
+            Console.WriteLine($"Name: {pokemon.Name}");
+        }
     } // end Main()
 } // end class PokemonLINQLab
